@@ -3,11 +3,11 @@ This repository contains all of the personal projects that I did in FreeCodeCamp
 
 ## Projects
 
-### 1. Cafe Menu
+### 1. ☕️ Cafe Menu
 A cafe menu made with basic html and CSS. This is the first project I have used for CSS, so its probably not using best practices or anything 
 
-- **Live site**: [View thing here](https://m-valdy.github.io/CSS_Recipe-Page/cafe_menu/index.html)
-- **File**: `cafe_menu.html`
+- **Live site**: [View Cafe Menu](https://m-valdy.github.io/CSS_Recipe-Page/cafe_menu/index.html)
+- **Folder**: `cafe_menu`
 - **Tools**: HTML5 and CSS
 
 ---

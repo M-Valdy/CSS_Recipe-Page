@@ -4,18 +4,18 @@ This repository contains all of the personal projects that I did in FreeCodeCamp
 ## Projects
 
 ### 1. ☕️ Cafe Menu
-A cafe menu made with basic html and CSS. This is the first project I have used for CSS, so its probably not using best practices or anything 
+A cafe menu made with basic HTML and CSS. This is the first project I have used for CSS, so its probably not using best practices or anything 
 
 - **Live site**: [View Cafe Menu](https://m-valdy.github.io/CSS_Recipe-Page/cafe_menu/index.html)
 - **Folder**: `cafe_menu`
 - **Tools**: HTML5 and CSS
 
 ---
-### 2. Something else goes here, idk what though
-Project description goes here
+### 2. Business Card
+A business card made with basic HTML and CSS. I might actually use this in the future somehow. Also all of the social media info in this thing is correct.
 
-- **Live site**: [View thingy here](insertlinkhere)
-- **File**: `file_goes_here2.html`
+- **Live site**: [View Business Card](https://m-valdy.github.io/CSS_Recipe-Page/business_card/index.html)
+- **Folder**: `business_card`
 - **Tools**: HTML5 and CSS
 
 

@@ -11,7 +11,7 @@ A cafe menu made with basic HTML and CSS. This is the first project I have used 
 - **Tools**: HTML5 and CSS
 
 ---
-### 2. Business Card
+### 2. 🪪 Business Card
 A business card made with basic HTML and CSS. I might actually use this in the future somehow. Also all of the social media info in this thing is correct.
 
 - **Live site**: [View Business Card](https://m-valdy.github.io/CSS_Recipe-Page/business_card/index.html)

@@ -1,5 +1,7 @@
 body {
-  background-color: aliceblue;
+  background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpaperaccess.com%2Ffull%2F138201.gif&f=1&nofb=1&ipt=e99bc664d99d48d0277b2c2100972db5f629e0ff0e099fe133b70d684dad0038);
+  background-size: contain;
+  min-height: 100px;
   font-family: Arial, sans-serif;
   color: #2F4F4F;
 }

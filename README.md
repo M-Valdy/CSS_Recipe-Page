@@ -18,6 +18,14 @@ A business card made with basic HTML and CSS. I might actually use this in the f
 - **Folder**: `business_card`
 - **Tools**: HTML5 and CSS
 
+---
+### 2. 📋 To-do List
+A to-do made with basic HTML and CSS. It looks really tacky tbh. I mostly practiced list-styling and text-decoration.
+
+- **Live site**: [View To-do List](https://m-valdy.github.io/CSS_Recipe-Page/to-do_list/index.html)
+- **Folder**: `to-do_list`
+- **Tools**: HTML5 and CSS
+
 
 ---
 ##  Deployment

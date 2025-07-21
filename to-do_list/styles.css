@@ -1,0 +1,73 @@
+body {
+  background-color: aliceblue;
+  font-family: Arial, sans-serif;
+  color: #2F4F4F;
+}
+
+h1 {
+  text-align: center;
+  color: #4682B4
+}
+
+a {
+  text-decoration: none;
+}
+
+li {
+  list-style-type: none;
+}
+
+.todo-list {
+  background-color: #5F9EA0;
+  border-radius: 25px;
+  padding: 10px;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.todo-list-item:not(:last-child) {
+  margin-bottom: 20px;
+}
+
+.todo-list > li {
+  list-style-type: none;
+}
+
+input[type="checkbox"]:checked + label {
+  text-decoration: line-through;
+  color: #888;
+}
+
+.todo-list-item {
+  background-color: #FFFFFF;
+  border-radius: 25px;
+  margin: 20px 10px;
+  padding: 10px;
+}
+
+.sub-item li {
+  list-style-type: square ;
+  padding: 10px 0px 10px 0px;
+}
+
+.sub-item-link:link {
+  color: #1E90FF;
+}
+
+.sub-item-link:hover {
+  color: #4682B4;
+}
+
+.sub-item-link:focus {
+  outline: 2px solid #1E90FF; 
+  outline-offset: 2px;
+  border-radius: 4px;
+}
+
+.sub-item-link:visited {
+  color: #6A5ACD;
+}
+
+.sub-item-link:active {
+  color: #FF4500;
+}

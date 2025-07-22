@@ -19,7 +19,7 @@ A business card made with basic HTML and CSS. I might actually use this in the f
 - **Tools**: HTML5 and CSS
 
 ---
-### 2. 📋 To-do List
+### 3. 📋 To-do List
 A to-do made with basic HTML and CSS. It looks really tacky tbh. I mostly practiced list-styling and text-decoration.
 
 - **Live site**: [View To-do List](https://m-valdy.github.io/CSS_Recipe-Page/todo_list/index.html)
@@ -27,7 +27,7 @@ A to-do made with basic HTML and CSS. It looks really tacky tbh. I mostly practi
 - **Tools**: HTML5 and CSS
 
 ---
-### 2. 👩🏽‍💻 Blog Post Card
+### 4. 👩🏽‍💻 Blog Post Card
 A blog post made with basic HTML and CSS. I practiced working with backgrounds and borders. The Read Me button does not in fact actually lead to an actual blog.
 
 - **Live site**: [View Blog Post Card](https://m-valdy.github.io/CSS_Recipe-Page/blog_post_card/index.html)

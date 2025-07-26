@@ -35,6 +35,14 @@ A blog post made with basic HTML and CSS. I practiced working with backgrounds a
 - **Tools**: HTML5 and CSS
 
 ---
+### 4. 🎂 Event Flyer Page
+An event flyer page made with basic HTML and CSS. I practiced working with absolute and relative units. Its based on a potential birthday page for my little cousin.
+
+- **Live site**: [View Blog Post Card](https://m-valdy.github.io/CSS_Recipe-Page/blog_post_card/index.html)
+- **Folder**: `blog_post_card`
+- **Tools**: HTML5 and CSS
+
+---
 ##  Deployment
 
 These projects are deployed via **GitHub Pages**.  

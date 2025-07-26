@@ -1,0 +1,79 @@
+body {
+  background-color: rgba(0, 0, 0, 0.3); 
+  background-blend-mode: darken;
+  background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fpreviews%2F004%2F930%2F779%2Foriginal%2Fset-of-hand-drawn-construction-vehicles-baby-seamless-pattern-with-tractor-and-truck-on-white-background-cute-design-cartoon-style-used-for-print-decorative-wallpaper-vector.jpg&f=1&nofb=1&ipt=e56d34a0168fdf4cd1783e6c8b37db06ad1b9939e1c712b0ea2aab96e48a8991);
+  background-size: cover; 
+  font-family: copperplate, sans-serif;
+  width: 100vw;
+  padding: 50px 0;
+  margin: 0 auto 0 auto;
+  min-height: calc(100vh - 100px);
+  color: white;
+
+}
+
+h1, p {
+  text-align: center;
+  margin: 0 0 20px;
+}
+
+img {
+  display: block;
+  margin: 20px auto;
+  max-width: 250px;
+  height: auto;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+  border: 2px solid white; /* Optional border for better visibility */
+  border-radius: 8px; /* Optional rounded corners */
+}
+
+hr {
+  border: none;
+  height: 3px;
+  width: 100%;
+  max-width: 800px;
+  margin: 10px auto 40px;
+  background-color: red;
+}
+
+main {
+  display: flex;
+  justify-content: center;
+  gap: 20px;           /* space between the sections */
+  flex-wrap: wrap;     /* allows stacking on smaller screens */
+  margin-top: 30px;
+}
+
+section{
+  flex: 1 1 300px; 
+  display: flex;
+  flex-direction: column;
+  width: 60%;
+  max-width: 800px;
+  margin: 20px auto;
+  background: rgba(0, 0, 0, 0.35); 
+  backdrop-filter: blur(2px);      
+  padding: 20px 24px;
+  border-radius: 12px;
+}
+
+section ul {
+  margin: 0;
+  padding-left: 20px;
+}
+
+section, h1 {
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.7);
+}
+
+@media (max-width: 768px) {
+  section {
+    width: 90%;
+    padding: 15px;
+  }
+  
+  img {
+    height: auto;
+    max-width: 90%;
+  }
+}

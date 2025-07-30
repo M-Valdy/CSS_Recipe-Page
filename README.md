@@ -42,6 +42,13 @@ An event flyer page made with basic HTML and CSS. I practiced working with absol
 - **Folder**: `blog_post_card`
 - **Tools**: HTML5 and CSS
 
+### 4. 🥳 Greeting Card
+An greeting card made with basic HTML and CSS. I practiced working with absolute and relative units. Its based on a potential greeting card for my little cousin.
+
+- **Live site**: [View Greeting Card](https://m-valdy.github.io/CSS_Recipe-Page/greeting_card/index.html)
+- **Folder**: `greeting_card`
+- **Tools**: HTML5 and CSS
+
 ---
 ##  Deployment
 

@@ -42,11 +42,20 @@ An event flyer page made with basic HTML and CSS. I practiced working with absol
 - **Folder**: `blog_post_card`
 - **Tools**: HTML5 and CSS
 
-### 4. 🥳 Greeting Card
-An greeting card made with basic HTML and CSS. I practiced working with absolute and relative units. Its based on a potential greeting card for my little cousin.
+---
+### 5. 🥳 Greeting Card
+An greeting card made with basic HTML and CSS. I practiced  working with pseudo classes like :hover and :focus, as well as psuedo elements in html. Its based on a potential greeting card for my little cousin.
 
 - **Live site**: [View Greeting Card](https://m-valdy.github.io/CSS_Recipe-Page/greeting_card/index.html)
 - **Folder**: `greeting_card`
+- **Tools**: HTML5 and CSS
+
+---
+### 6. 👩🏽‍💻 Job Application Form
+A job application form  made with basic HTML and CSS. I practiced working with pseudo classes like :hover and :focus, as well as psuedo elements in html. The positions listed are potential fields I can branch out to after I graduate university.
+
+- **Live site**: [View Job Application Form](https://m-valdy.github.io/CSS_Recipe-Page/job_application_form/index.html)
+- **Folder**: `job_application_form`
 - **Tools**: HTML5 and CSS
 
 ---

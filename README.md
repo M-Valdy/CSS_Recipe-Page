@@ -59,6 +59,14 @@ A job application form  made with basic HTML and CSS. I practiced working with p
 - **Tools**: HTML5 and CSS
 
 ---
+### 7. 🖍️ CSS Coloured Markers
+A set of coloured markers that I made with basic HTML and CSS. I practiced working with different ways to set color values as well. 
+
+- **Live site**: [View Colored Markers](https://m-valdy.github.io/CSS_Recipe-Page/coloured_markers/index.html)
+- **Folder**: `coloured_markers`
+- **Tools**: HTML5 and CSS
+
+---
 ##  Deployment
 
 These projects are deployed via **GitHub Pages**.  

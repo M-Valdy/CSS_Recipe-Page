@@ -1,0 +1,109 @@
+body {
+  width: 100%;
+  min-height: 100vh;
+  margin: 0;
+  background: radial-gradient(circle,rgba(247, 238, 156) 0%, rgba(255, 182, 193) 50%, rgba(173, 216, 230) 100%);
+  background-size: cover;
+  font-size: 16px;
+  transition: all 0.3s ease-in-out;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.form-container {
+  margin: 0 auto;
+  padding: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background: rgba(255, 255, 255, 0.2); 
+  border-radius: 12px;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+h2 {
+  margin: 1em auto;
+  text-decoration: underline;
+  text-align: center;
+}
+
+form {
+  width: 60vw;
+  max-width: 500px;
+  min-width: 300px;
+  margin: 10px;
+  padding: 2em;
+  border: 2px solid rgba(173, 216, 230);
+  border-radius: 8px;
+  background-color: white;
+  font-family: 'Poppins', 'Segoe UI', sans-serif;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.1);
+}
+
+
+label {
+  display: block;
+  margin: 0.5rem 0;
+  color: #444;
+  font-weight: 500;
+}
+
+input, textarea {
+  width: 100%;
+  margin: 10px 0 0 0;
+  border: 2px solid rgba(255, 182, 193);
+  padding: 0.5em;
+  border-radius: 6px;
+}
+
+textarea {
+  width: 100%;
+  padding: 0.5em;
+  margin-top: 10px;
+  border: 2px solid rgba(255, 182, 193);
+  resize: vertical;
+  box-sizing: border-box;
+}
+
+input:hover, textarea:hover  {
+  border: 2px solid rgba(173, 216, 230);
+  transform: scale(1.02);
+}
+
+textarea:focus, input:focus {
+  border: 2px solid rgba(247, 238, 156);
+  outline: none;
+  box-shadow: 0 0 5px rgba(255, 105, 180, 0.4);
+}
+
+button {
+  margin: 1em auto;
+  display: block;
+  width: 100%;
+  box-sizing: border-box;
+  font-size: 1.1rem;
+  font-weight: bold;
+  padding: 0.75em 1.5em;
+  line-height: 1.2;
+  border-radius: 6px;
+  border: none;
+  background-color: rgba(173, 216, 230);
+  color: #333;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.1s ease;
+}
+
+
+button:hover {
+  background-color: rgba(135, 206, 250, 1); 
+  transform: scale(1.05);
+}
+
+input, textarea, button {
+  font-family: inherit;
+}

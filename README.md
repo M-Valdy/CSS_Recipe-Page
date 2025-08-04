@@ -67,6 +67,14 @@ A set of coloured markers that I made with basic HTML and CSS. I practiced worki
 - **Tools**: HTML5 and CSS
 
 ---
+### 8. 👔 Registration Form
+A registration form that I made with basic HTML and CSS. I learned how to control what types of data people can type into my form, and some new CSS tools along with it. Its kind of like an improvement on my previous html-only forms. 
+
+- **Live site**: [View Colored Markers](https://m-valdy.github.io/CSS_Recipe-Page/registration_form/index.html)
+- **Folder**: `coloured_markers`
+- **Tools**: HTML5 and CSS
+
+---
 ##  Deployment
 
 These projects are deployed via **GitHub Pages**.  

@@ -1,0 +1,70 @@
+body {
+  background: #f4ecd8; 
+  font-family: 'Cormorant Garamond', serif; 
+  color: #2c1d0f;
+  padding: 2em;
+}
+
+#email {
+  position: relative;
+  background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.freecreatives.com%2Fwp-content%2Fuploads%2F2016%2F02%2FOld-Floral-Parchment-Texture.jpg&f=1&nofb=1&ipt=8593b0b098d17944f06a13fffe7458b1381dafc8e40f941c2f6ffeb8bea6f821);
+   background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding: 50px;
+  margin: 50px auto;
+  width: 500px;
+  border: 2px solid #d2b48c; 
+  box-shadow: 0 0 20px rgba(0,0,0,0.1);
+  border-radius: 12px;
+  box-sizing: border-box;
+}
+
+#confidential, #top-secret {
+  border: 2px dashed #8b0000;
+  color: #8b0000;
+  padding: 6px 12px;
+  font-weight: bold;
+  font-size: 2em;
+  opacity: 0.85;
+  border-radius: 5px;
+  letter-spacing: 1px;
+  font-family: 'Special Elite', monospace;
+  pointer-events: none;
+  mix-blend-mode: multiply;
+  box-shadow: 1px 1px 3px rgba(0,0,0,0.2);
+  position: absolute;  
+}
+
+#confidential {
+  display: inline-block;
+  top: 20px;
+  left: 20px;
+  margin-left: 20px;
+  margin-bottom: 1em;
+  transform: rotate(-30deg);
+}
+
+#top-secret {
+  display: inline-block;
+  margin-left: 20px;
+  margin-top: 2em;
+  transform: translate(150px, -150px) rotate(35deg);
+}
+
+.blurred {
+  filter: blur(3px);
+  transition: 0.3s ease;
+  cursor: pointer;
+}
+
+.signature {
+  font-family: 'Zeyada', cursive;
+  font-size: 1.4em;
+}
+
+span:hover {
+  filter: none;
+  background-color: rgba(255, 255, 153, 0.4);
+}
+

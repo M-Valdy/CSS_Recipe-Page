@@ -86,8 +86,16 @@ A contact form that I made with basic HTML and CSS. I learned how to
 ### 9. 🖼️ Rothko Painting
 A contact form that I made with basic HTML and CSS. I learned how to use filters and transformations in CSS. I don't actually know if Rothko just talks about the style or if its based on an actual Rothko Painting.
 
-- **Live site**: [View Contact Form](https://m-valdy.github.io/CSS_Recipe-Page/rothko_painting/index.html)
+- **Live site**: [View Rothko Painting](https://m-valdy.github.io/CSS_Recipe-Page/rothko_painting/index.html)
 - **Folder**: `rothko_painting`
+- **Tools**: HTML5 and CSS
+
+---
+### 9. ✉️ Confidential Email
+A confidential "email" that I made with basic HTML and CSS. I practiced my filters and transformations in CSS. I kind of just made it fantasy based because you know what, why not?
+
+- **Live site**: [View Confidential Email Page](https://m-valdy.github.io/CSS_Recipe-Page/confidential_email_page/index.html)
+- **Folder**: `confidential_email_page`
 - **Tools**: HTML5 and CSS
 
 ---

@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Cardo:wght@400;700&display=swap');
+
+#playing-cards {
+  display: flex; 
+  justify-content: center; 
+  flex-wrap: wrap;
+  gap: 20px;
+  padding: 20px;
+  font-family: 'Cardo', 'Times New Roman', serif;
+  background: rgb(253, 173, 161);
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 180px;
+  height: 260px;
+  padding: 12px;
+  background: white;
+  border: 2px solid #1e1e1e;
+  border-radius: 12px;
+  box-shadow: 0 6px 14px rgba(0, 0, 0, 0.2);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 18px rgba(0, 0, 0, 0.25);
+}
+
+.left {
+  align-self: flex-start;
+  text-align: center;
+  font-size: 1.4rem;
+  line-height: 1.2;
+  font-weight: bold;
+}
+
+.right {
+  align-self: flex-end;
+  text-align: center;
+  transform: rotate(180deg);
+  font-size: 1.4rem;
+  line-height: 1.2;
+  font-weight: bold;
+}
+
+.middle {
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  flex-grow: 1;
+  gap: 6px;
+}
+
+.middle span {
+  font-size: 2.9rem;
+  line-height: 1;
+}
+
+.middle .half {
+  display: flex;
+  gap: 6px;
+}
+
+.upside-down {
+  transform: rotate(180deg);
+}
+
+.red {
+  color: #d10000;
+}

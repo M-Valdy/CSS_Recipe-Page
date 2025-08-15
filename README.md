@@ -107,6 +107,14 @@ A photo gallery that I made with basic HTML and CSS. I practiced using the flexb
 - **Tools**: HTML5 and CSS
 
 ---
+### 12. ♠️ Playing Cards
+A set of playing cards of each suit that I made with basic HTML and CSS. I practiced using the flexbox property in CSS to make a responsive set of cards using properties such as flex-direction, justify-content, align-self, and more.
+
+- **Live site**: [View Playing Cards](https://m-valdy.github.io/CSS_Recipe-Page/playing_cards/index.html)
+- **Folder**: `playing_cards`
+- **Tools**: HTML5 and CSS
+
+---
 ##  Deployment
 
 These projects are deployed via **GitHub Pages**.  

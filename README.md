@@ -91,11 +91,19 @@ A contact form that I made with basic HTML and CSS. I learned how to use filters
 - **Tools**: HTML5 and CSS
 
 ---
-### 9. ✉️ Confidential Email
+### 10. ✉️ Confidential Email
 A confidential "email" that I made with basic HTML and CSS. I practiced my filters and transformations in CSS. I kind of just made it fantasy based because you know what, why not?
 
 - **Live site**: [View Confidential Email Page](https://m-valdy.github.io/CSS_Recipe-Page/confidential_email_page/index.html)
 - **Folder**: `confidential_email_page`
+- **Tools**: HTML5 and CSS
+
+---
+### 11. 📸 Flexbox Photo Gallery
+A photo gallery that I made with basic HTML and CSS. I practiced using the flexbox property in CSS to make a responsive photo gallery.
+
+- **Live site**: [View Photo Gallery](https://m-valdy.github.io/CSS_Recipe-Page/flexbox_photo_gallery/index.html)
+- **Folder**: `flexbox_photo_gallery`
 - **Tools**: HTML5 and CSS
 
 ---

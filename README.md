@@ -38,7 +38,7 @@ A blog post made with basic HTML and CSS. I practiced working with backgrounds a
 ### 4. 🎂 Event Flyer Page
 An event flyer page made with basic HTML and CSS. I practiced working with absolute and relative units. Its based on a potential birthday page for my little cousin.
 
-- **Live site**: [View Blog Post Card](https://m-valdy.github.io/CSS_Recipe-Page/blog_post_card/index.html)
+- **Live site**: [View Event Flyer Page](https://m-valdy.github.io/CSS_Recipe-Page/blog_post_card/index.html)
 - **Folder**: `blog_post_card`
 - **Tools**: HTML5 and CSS
 
@@ -70,7 +70,7 @@ A set of coloured markers that I made with basic HTML and CSS. I practiced worki
 ### 8. 👔 Registration Form
 A registration form that I made with basic HTML and CSS. I practiced the skills that I learned with the previous excercise while learning some new styles that I could add for more flourish. 
 
-- **Live site**: [View Colored Markers](https://m-valdy.github.io/CSS_Recipe-Page/registration_form/index.html)
+- **Live site**: [View Registration Form](https://m-valdy.github.io/CSS_Recipe-Page/registration_form/index.html)
 - **Folder**: `coloured_markers`
 - **Tools**: HTML5 and CSS
 

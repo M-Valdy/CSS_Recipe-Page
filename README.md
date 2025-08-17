@@ -115,6 +115,14 @@ A set of playing cards of each suit that I made with basic HTML and CSS. I pract
 - **Tools**: HTML5 and CSS
 
 ---
+### 13. 🥗 Nutritional Label
+A Nutritional Label that I made with basic HTML and CSS. I practiced typography along with skills in styling text, adjusting line height, and adjusting positioning using CSS. Despite how it looks, this is probably one of the more html/css heavy projects so far
+
+- **Live site**: [View Nutritional Label](https://m-valdy.github.io/CSS_Recipe-Page/nutritional_label/index.html)
+- **Folder**: `nutritional_label`
+- **Tools**: HTML5 and CSS
+
+---
 ##  Deployment
 
 These projects are deployed via **GitHub Pages**.  

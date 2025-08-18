@@ -123,6 +123,14 @@ A Nutritional Label that I made with basic HTML and CSS. I practiced typography 
 - **Tools**: HTML5 and CSS
 
 ---
+### 14. 📰 Newspaper Article
+A Newspaper that I made with basic HTML and CSS. I practiced using properties such as font-family, font-weight, font-size and more. Similar to the Confidential Letter I had a little bit of fun with the article by making it fantasy (also the picture is AI, I used that because I don't know how to draw)
+
+- **Live site**: [View Newspaper Article](https://m-valdy.github.io/CSS_Recipe-Page/newspaper_article/index.html)
+- **Folder**: `newspaper_article`
+- **Tools**: HTML5 and CSS
+
+---
 ##  Deployment
 
 These projects are deployed via **GitHub Pages**.  

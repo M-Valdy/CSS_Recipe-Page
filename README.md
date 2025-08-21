@@ -131,6 +131,14 @@ A Newspaper that I made with basic HTML and CSS. I practiced using properties su
 - **Tools**: HTML5 and CSS
 
 ---
+### 15. 🛜 Quiz Webpage
+A Quiz Webpage that I made with basic HTML and CSS. I practiced using accessibility tools such as keyboard shortcuts, ARIA attributes, and design best practices.
+
+- **Live site**: [View Quiz Webpage](https://m-valdy.github.io/CSS_Recipe-Page/quiz_webpage/index.html)
+- **Folder**: `quiz_webpage`
+- **Tools**: HTML5 and CSS
+
+---
 ##  Deployment
 
 These projects are deployed via **GitHub Pages**.  

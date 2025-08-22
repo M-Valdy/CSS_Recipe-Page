@@ -139,6 +139,14 @@ A Quiz Webpage that I made with basic HTML and CSS. I practiced using accessibil
 - **Tools**: HTML5 and CSS
 
 ---
+### 16. ✝️ Tribute Page
+A Tribute Page about Saint Augustine that I made with basic HTML and CSS. I practiced the tools used previously as well as refreshing my knowledge on pseudo-elements (hover and focus) that I haven't really used in a while. I tried to make it look boogie.
+
+- **Live site**: [View Tribute Page](https://m-valdy.github.io/CSS_Recipe-Page/tribute_page/index.html)
+- **Folder**: `tribute_page`
+- **Tools**: HTML5 and CSS
+
+---
 ##  Deployment
 
 These projects are deployed via **GitHub Pages**.  

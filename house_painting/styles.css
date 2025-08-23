@@ -1,0 +1,40 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #87ceeb;
+}
+
+#house {
+  position: relative;
+  z-index: 2;
+  width: 500px;
+  height: 400px;
+  background-color: #c19a6b;
+  margin: 300px auto 0; 
+}
+
+#chimney {
+  position: absolute;
+  z-index: 1;
+  top: -150px;
+
+  width: 100px;
+  height: 150px;
+  background-color: blue;
+  border: 2px solid #964b00
+}
+
+#roof {
+  position: absolute;
+  z-index: 3;
+  top: 0;
+  left: 0;
+  width: 0;
+  height: 0;
+  border-left: 250px solid transparent;
+  border-right: 250px solid transparent;
+  border-bottom: 140px solid #964b00;
+  transform: translateY(-140px);
+}

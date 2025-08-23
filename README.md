@@ -147,6 +147,13 @@ A Tribute Page about Saint Augustine that I made with basic HTML and CSS. I prac
 - **Tools**: HTML5 and CSS
 
 ---
+### 16. 🐱 Cat Painting
+A cat painting that I made with basic HTML and CSS. I practiced working with absolute positioning, the z-index property, and the transform property.
+- **Live site**: [View Cat Painting](https://m-valdy.github.io/CSS_Recipe-Page/cat_painting/index.html)
+- **Folder**: `cat_painting`
+- **Tools**: HTML5 and CSS
+
+---
 ##  Deployment
 
 These projects are deployed via **GitHub Pages**.  

@@ -154,7 +154,6 @@ A cat painting that I made with basic HTML and CSS. I practiced working with abs
 - **Tools**: HTML5 and CSS
 
 ---
----
 ### 17. 🏠 House Painting
 A cat painting that I made with basic HTML and CSS. I practiced working with the same things as the previous project, but with an empasis on positioning with properties such as top, bottom, left and more. This was genuinely the most annoying project so far. 
 - **Live site**: [View House Painting](https://m-valdy.github.io/CSS_Recipe-Page/house_painting/index.html)

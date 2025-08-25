@@ -155,9 +155,16 @@ A cat painting that I made with basic HTML and CSS. I practiced working with abs
 
 ---
 ### 17. 🏠 House Painting
-A cat painting that I made with basic HTML and CSS. I practiced working with the same things as the previous project, but with an empasis on positioning with properties such as top, bottom, left and more. This was genuinely the most annoying project so far. 
+A cat painting that I made with basic HTML and CSS. I practiced working with the same things as the previous project, but with an empasis on positioning with properties such as top, bottom, left and more. This was genuinely the most annoying project so far, it might not even work on your device honestly. 
 - **Live site**: [View House Painting](https://m-valdy.github.io/CSS_Recipe-Page/house_painting/index.html)
 - **Folder**: `house_painting`
+- **Tools**: HTML5 and CSS
+
+---
+### 18. 💳 Balance Sheet
+A balance sheet that I made with HTML and CSS. I practiced working with pseudo-selectors (including :hover and many others). As well as practicing how to trigger other events on my webpage 
+- **Live site**: [View Balance Sheet](https://m-valdy.github.io/CSS_Recipe-Page/balance_sheet/index.html)
+- **Folder**: `balance_sheet`
 - **Tools**: HTML5 and CSS
 
 ---

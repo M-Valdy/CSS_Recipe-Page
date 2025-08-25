@@ -168,6 +168,13 @@ A balance sheet that I made with HTML and CSS. I practiced working with pseudo-s
 - **Tools**: HTML5 and CSS
 
 ---
+### 19. 📚 Book Inventory
+A book inventory that I made with HTML and CSS. I practiced working with pseudo-selectors such as [attribute], [attribute=value], [attribute~=value], and more.
+- **Live site**: [View Book Inventory](https://m-valdy.github.io/CSS_Recipe-Page/book_inventory/index.html)
+- **Folder**: `book_inventory`
+- **Tools**: HTML5 and CSS
+
+---
 ##  Deployment
 
 These projects are deployed via **GitHub Pages**.  

@@ -175,6 +175,13 @@ A book inventory that I made with HTML and CSS. I practiced working with pseudo-
 - **Tools**: HTML5 and CSS
 
 ---
+### 20. 🎹 CSS Piano
+A book inventory that I made with HTML and CSS. I practiced creating responsive designs by practicing the use of media queries, pseudo selectors and pseudo-elements. It's not actually interactive or anything, its literally just a piano. It's not even really a piano either, its pretty much just a keyboard.
+- **Live site**: [View CSS Piano](https://m-valdy.github.io/CSS_Recipe-Page/css_piano/index.html)
+- **Folder**: `css_piano`
+- **Tools**: HTML5 and CSS
+
+---
 ##  Deployment
 
 These projects are deployed via **GitHub Pages**.  

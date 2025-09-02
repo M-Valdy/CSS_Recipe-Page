@@ -1,5 +1,5 @@
 # CSS_Recipe-Page
-This repository contains all of the personal projects that I did in FreeCodeCamp in HTML and CSS. This repository is called the recipe page because this is where I cook (Part 2). Other recipes (Python, Javascript, etc. ) will come in later through an entirely different repository.
+This repository contains all of the personal projects that I did in FreeCodeCamp in HTML and CSS. This repository is called the recipe page because this is where I cook (Part 2). Other recipes (Python, Javascript, etc. ) will come in later through an entirely different repository. To be perfectly honest, I had a lot of fun with some of these projects as I ended up using a fantasy concept for a lot of them. Especially since I like writing stories in my spare time.
 
 ## Projects
 

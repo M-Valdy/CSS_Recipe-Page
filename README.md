@@ -44,7 +44,8 @@ A blog post made with basic HTML and CSS. I practiced working with backgrounds a
 
 ---
 
-### 4. 🎂 Event Flyer Page
+### 5. 🎂 Event Flyer Page
+
 An event flyer page made with basic HTML and CSS. I practiced working with absolute and relative units. Its based on a potential birthday page for my little cousin.
 
 - **Live site**: [View Event Flyer Page](https://m-valdy.github.io/CSS_Recipe-Page/event_flyer_page/index.html)
@@ -53,7 +54,7 @@ An event flyer page made with basic HTML and CSS. I practiced working with absol
 
 ---
 
-### 5. 🥳 Greeting Card
+### 6. 🥳 Greeting Card
 
 An greeting card made with basic HTML and CSS. I practiced  working with pseudo classes like :hover and :focus, as well as psuedo elements in html. Its based on a potential greeting card for my little cousin.
 
@@ -63,7 +64,7 @@ An greeting card made with basic HTML and CSS. I practiced  working with pseudo 
 
 ---
 
-### 6. 👩🏽‍💻 Job Application Form
+### 7. 👩🏽‍💻 Job Application Form
 
 A job application form  made with basic HTML and CSS. I practiced working with pseudo classes like :hover and :focus, as well as psuedo elements in html. The positions listed are potential fields I can branch out to after I graduate university.
 
@@ -73,7 +74,8 @@ A job application form  made with basic HTML and CSS. I practiced working with p
 
 ---
 
-### 7. 🖍️ CSS Coloured Markers
+### 8. 🖍️ CSS Coloured Markers
+
 A set of coloured markers that I made with basic HTML and CSS. I practiced working with different ways to set color values as well. 
 
 - **Live site**: [View Colored Markers](https://m-valdy.github.io/CSS_Recipe-Page/coloured_markers/index.html)
@@ -82,7 +84,7 @@ A set of coloured markers that I made with basic HTML and CSS. I practiced worki
 
 ---
 
-### 8. 👔 Registration Form
+### 9. 👔 Registration Form
 
 A registration form that I made with basic HTML and CSS. I practiced the skills that I learned with the previous excercise while learning some new styles that I could add for more flourish. 
 
@@ -92,7 +94,7 @@ A registration form that I made with basic HTML and CSS. I practiced the skills 
 
 ---
 
-### 8. ☎️ Contact Form
+### 10. ☎️ Contact Form
 
 A contact form that I made with basic HTML and CSS. I learned how to 
 
@@ -102,7 +104,7 @@ A contact form that I made with basic HTML and CSS. I learned how to
 
 ---
 
-### 9. 🖼️ Rothko Painting
+### 11. 🖼️ Rothko Painting
 
 A contact form that I made with basic HTML and CSS. I learned how to use filters and transformations in CSS. I don't actually know if Rothko just talks about the style or if its based on an actual Rothko Painting.
 
@@ -112,7 +114,7 @@ A contact form that I made with basic HTML and CSS. I learned how to use filters
 
 ---
 
-### 10. ✉️ Confidential Email
+### 12. ✉️ Confidential Email
 
 A confidential "email" that I made with basic HTML and CSS. I practiced my filters and transformations in CSS. I kind of just made it fantasy based because you know what, why not?
 
@@ -122,7 +124,7 @@ A confidential "email" that I made with basic HTML and CSS. I practiced my filte
 
 ---
 
-### 11. 📸 Flexbox Photo Gallery
+### 13. 📸 Flexbox Photo Gallery
 
 A photo gallery that I made with basic HTML and CSS. I practiced using the flexbox property in CSS to make a responsive photo gallery.
 
@@ -132,7 +134,7 @@ A photo gallery that I made with basic HTML and CSS. I practiced using the flexb
 
 ---
 
-### 12. ♠️ Playing Cards
+### 14. ♠️ Playing Cards
 
 A set of playing cards of each suit that I made with basic HTML and CSS. I practiced using the flexbox property in CSS to make a responsive set of cards using properties such as flex-direction, justify-content, align-self, and more.
 
@@ -142,7 +144,7 @@ A set of playing cards of each suit that I made with basic HTML and CSS. I pract
 
 ---
 
-### 13. 🥗 Nutritional Label
+### 15. 🥗 Nutritional Label
 
 A Nutritional Label that I made with basic HTML and CSS. I practiced typography along with skills in styling text, adjusting line height, and adjusting positioning using CSS. Despite how it looks, this is probably one of the more html/css heavy projects so far
 
@@ -152,7 +154,7 @@ A Nutritional Label that I made with basic HTML and CSS. I practiced typography 
 
 ---
 
-### 14. 📰 Newspaper Article
+### 16. 📰 Newspaper Article
 
 A Newspaper that I made with basic HTML and CSS. I practiced using properties such as font-family, font-weight, font-size and more. Similar to the Confidential Letter I had a little bit of fun with the article by making it fantasy (also the picture is AI, I used that because I don't know how to draw)
 
@@ -162,7 +164,7 @@ A Newspaper that I made with basic HTML and CSS. I practiced using properties su
 
 ---
 
-### 15. 🛜 Quiz Webpage
+### 17. 🛜 Quiz Webpage
 
 A Quiz Webpage that I made with basic HTML and CSS. I practiced using accessibility tools such as keyboard shortcuts, ARIA attributes, and design best practices.
 
@@ -172,7 +174,7 @@ A Quiz Webpage that I made with basic HTML and CSS. I practiced using accessibil
 
 ---
 
-### 16. ✝️ Tribute Page
+### 18. ✝️ Tribute Page
 
 A Tribute Page about Saint Augustine that I made with basic HTML and CSS. I practiced the tools used previously as well as refreshing my knowledge on pseudo-elements (hover and focus) that I haven't really used in a while. I tried to make it look boogie.
 
@@ -182,7 +184,7 @@ A Tribute Page about Saint Augustine that I made with basic HTML and CSS. I prac
 
 ---
 
-### 16. 🐱 Cat Painting
+### 19. 🐱 Cat Painting
 
 A cat painting that I made with basic HTML and CSS. I practiced working with absolute positioning, the z-index property, and the transform property.
 
@@ -192,7 +194,7 @@ A cat painting that I made with basic HTML and CSS. I practiced working with abs
 
 ---
 
-### 17. 🏠 House Painting
+### 20. 🏠 House Painting
 
 A cat painting that I made with basic HTML and CSS. I practiced working with the same things as the previous project, but with an empasis on positioning with properties such as top, bottom, left and more. This was genuinely the most annoying project so far, it might not even work on your device honestly. 
 
@@ -202,7 +204,7 @@ A cat painting that I made with basic HTML and CSS. I practiced working with the
 
 ---
 
-### 18. 💳 Balance Sheet
+### 21. 💳 Balance Sheet
 
 A balance sheet that I made with HTML and CSS. I practiced working with pseudo-selectors (including :hover and many others). As well as practicing how to trigger other events on my webpage.
 
@@ -212,7 +214,7 @@ A balance sheet that I made with HTML and CSS. I practiced working with pseudo-s
 
 ---
 
-### 19. 📚 Book Inventory
+### 22. 📚 Book Inventory
 
 A book inventory that I made with HTML and CSS. I practiced working with pseudo-selectors such as [attribute], [attribute=value], [attribute~=value], and more.
 
@@ -222,7 +224,7 @@ A book inventory that I made with HTML and CSS. I practiced working with pseudo-
 
 ---
 
-### 20. 🎹 CSS Piano
+### 23. 🎹 CSS Piano
 
 A book inventory that I made with HTML and CSS. I practiced creating responsive designs by practicing the use of media queries, pseudo selectors and pseudo-elements. It's not actually interactive or anything, its literally just a piano. It's not even really a piano either, its pretty much just a keyboard.
 
@@ -232,8 +234,9 @@ A book inventory that I made with HTML and CSS. I practiced creating responsive 
 
 ---
 
-### 21. 📄 Technical Documentation Page
+### 24. 📄 Technical Documentation Page
 
+A technical documentation page that I made with HTML and CSS. It was mostly review, but I practiced creating responsive designs mostly through practicing the use of media queries. It's more content heavy than my usual projects since I had fun and made it extra long. Its also the longest project I've ever made to date.
 A technical documentation page that I made with HTML and CSS. It was mostly review, but I practiced creating responsive designs mostly through practicing the use of media queries. It's more content heavy than my usual projects since I had fun and made it extra long. Its also the longest project I've ever made to date.
 
 - **Live site**: [View Technical Documentation Page](https://m-valdy.github.io/CSS_Recipe-Page/technical_documentation_page/index.html)
@@ -242,7 +245,7 @@ A technical documentation page that I made with HTML and CSS. It was mostly revi
 
 ---
 
-### 22. 🌃 City Skyline
+### 25. 🌃 City Skyline
 
 A City Skyline that I made with HTML and CSS.
 

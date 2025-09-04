@@ -247,7 +247,7 @@ A technical documentation page that I made with HTML and CSS. It was mostly revi
 
 ### 25. 🌃 City Skyline
 
-A City Skyline that I made with HTML and CSS.
+A City Skyline that I made with HTML and CSS. I practiced using CSS Variables in order to use and reuse colors all over again.
 
 - **Live site**: [View City Skyline](https://m-valdy.github.io/CSS_Recipe-Page/city_skyline/index.html)
 - **Folder**: `city_skyline`

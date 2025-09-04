@@ -234,10 +234,20 @@ A book inventory that I made with HTML and CSS. I practiced creating responsive 
 
 ### 21. 📄 Technical Documentation Page
 
-A technical documentation page that I made with HTML and CSS. It was mostly review, but I practiced creating responsive designs mostly through practicing the use of media queries. It's not actually interactive or anything, its literally just a piano. It's more content heavy than my usual projects since I had fun and made it extra long. Its also the longest project I've ever made to date.
+A technical documentation page that I made with HTML and CSS. It was mostly review, but I practiced creating responsive designs mostly through practicing the use of media queries. It's more content heavy than my usual projects since I had fun and made it extra long. Its also the longest project I've ever made to date.
 
 - **Live site**: [View Technical Documentation Page](https://m-valdy.github.io/CSS_Recipe-Page/technical_documentation_page/index.html)
 - **Folder**: `technical_documentation_page`
+- **Tools**: HTML5 and CSS
+
+---
+
+### 22. 🌃 City Skyline
+
+A City Skyline that I made with HTML and CSS.
+
+- **Live site**: [View City Skyline](https://m-valdy.github.io/CSS_Recipe-Page/city_skyline/index.html)
+- **Folder**: `city_skyline`
 - **Tools**: HTML5 and CSS
 
 ---

@@ -5,7 +5,7 @@
 body {
   color: #1d2951;
   font-family: 'Georgia', 'Times New Roman', serif;
-  background: linear-gradient(to bottom, #ffffff 0%, #f0f0f0 50%, #dcdcdc 100%);
+  background: repeating-linear-gradient(to bottom, #ffffff 0%, #f0f0f0 50%, #dcdcdc 100%);
   background-attachment: fixed;
   padding: 1.5rem;
 }

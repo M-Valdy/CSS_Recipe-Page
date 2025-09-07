@@ -146,7 +146,7 @@ A set of playing cards of each suit that I made with basic HTML and CSS. I pract
 
 ### 15. 🥗 Nutritional Label
 
-A Nutritional Label that I made with basic HTML and CSS. I practiced typography along with skills in styling text, adjusting line height, and adjusting positioning using CSS. Despite how it looks, this is probably one of the more html/css heavy projects so far
+A nutritional label that I made with basic HTML and CSS. I practiced typography along with skills in styling text, adjusting line height, and adjusting positioning using CSS. Despite how it looks, this is probably one of the more html/css heavy projects so far
 
 - **Live site**: [View Nutritional Label](https://m-valdy.github.io/CSS_Recipe-Page/nutritional_label/index.html)
 - **Folder**: `nutritional_label`
@@ -156,7 +156,7 @@ A Nutritional Label that I made with basic HTML and CSS. I practiced typography 
 
 ### 16. 📰 Newspaper Article
 
-A Newspaper that I made with basic HTML and CSS. I practiced using properties such as font-family, font-weight, font-size and more. Similar to the Confidential Letter I had a little bit of fun with the article by making it fantasy (also the picture is AI, I used that because I don't know how to draw)
+A newspaper that I made with basic HTML and CSS. I practiced using properties such as font-family, font-weight, font-size and more. Similar to the Confidential Letter I had a little bit of fun with the article by making it fantasy (also the picture is AI, I used that because I don't know how to draw)
 
 - **Live site**: [View Newspaper Article](https://m-valdy.github.io/CSS_Recipe-Page/newspaper_article/index.html)
 - **Folder**: `newspaper_article`
@@ -166,7 +166,7 @@ A Newspaper that I made with basic HTML and CSS. I practiced using properties su
 
 ### 17. 🛜 Quiz Webpage
 
-A Quiz Webpage that I made with basic HTML and CSS. I practiced using accessibility tools such as keyboard shortcuts, ARIA attributes, and design best practices.
+A quiz webpage that I made with basic HTML and CSS. I practiced using accessibility tools such as keyboard shortcuts, ARIA attributes, and design best practices.
 
 - **Live site**: [View Quiz Webpage](https://m-valdy.github.io/CSS_Recipe-Page/quiz_webpage/index.html)
 - **Folder**: `quiz_webpage`
@@ -176,7 +176,7 @@ A Quiz Webpage that I made with basic HTML and CSS. I practiced using accessibil
 
 ### 18. ✝️ Tribute Page
 
-A Tribute Page about Saint Augustine that I made with basic HTML and CSS. I practiced the tools used previously as well as refreshing my knowledge on pseudo-elements (hover and focus) that I haven't really used in a while. I tried to make it look boogie.
+A tribute page about Saint Augustine that I made with basic HTML and CSS. I practiced the tools used previously as well as refreshing my knowledge on pseudo-elements (hover and focus) that I haven't really used in a while. I tried to make it look boogie.
 
 - **Live site**: [View Tribute Page](https://m-valdy.github.io/CSS_Recipe-Page/tribute_page/index.html)
 - **Folder**: `tribute_page`
@@ -196,7 +196,7 @@ A cat painting that I made with basic HTML and CSS. I practiced working with abs
 
 ### 20. 🏠 House Painting
 
-A cat painting that I made with basic HTML and CSS. I practiced working with the same things as the previous project, but with an empasis on positioning with properties such as top, bottom, left and more. This was genuinely the most annoying project so far, it might not even work on your device honestly. 
+A house painting that I made with basic HTML and CSS. I practiced working with the same things as the previous project, but with an empasis on positioning with properties such as top, bottom, left and more. This was genuinely the most annoying project so far, it might not even work on your device honestly. 
 
 - **Live site**: [View House Painting](https://m-valdy.github.io/CSS_Recipe-Page/house_painting/index.html)
 - **Folder**: `house_painting`
@@ -226,7 +226,7 @@ A book inventory that I made with HTML and CSS. I practiced working with pseudo-
 
 ### 23. 🎹 CSS Piano
 
-A book inventory that I made with HTML and CSS. I practiced creating responsive designs by practicing the use of media queries, pseudo selectors and pseudo-elements. It's not actually interactive or anything, its literally just a piano. It's not even really a piano either, its pretty much just a keyboard.
+A CSS piano that I made with HTML and CSS. I practiced creating responsive designs by practicing the use of media queries, pseudo selectors and pseudo-elements. It's not actually interactive or anything, its literally just a piano. It's not even really a piano either, its pretty much just a keyboard.
 
 - **Live site**: [View CSS Piano](https://m-valdy.github.io/CSS_Recipe-Page/css_piano/index.html)
 - **Folder**: `css_piano`
@@ -251,6 +251,16 @@ A City Skyline that I made with HTML and CSS. I practiced using CSS Variables in
 
 - **Live site**: [View City Skyline](https://m-valdy.github.io/CSS_Recipe-Page/city_skyline/index.html)
 - **Folder**: `city_skyline`
+- **Tools**: HTML5 and CSS
+
+---
+
+### 26. 📅 Availability Table
+
+An availability table that I made with HTML and CSS. I practiced using CSS Variables in order to use and reuse colors and borders all over again. It was lowkey kind of tiring to actually put in the schedules.
+
+- **Live site**: [View Availability Table](https://m-valdy.github.io/CSS_Recipe-Page/availability_table/index.html)
+- **Folder**: `availability_table`
 - **Tools**: HTML5 and CSS
 
 ---

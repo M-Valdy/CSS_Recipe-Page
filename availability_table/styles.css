@@ -1,0 +1,147 @@
+:root {
+  --color0: #edeaf9;
+  --color1: #b8acf9;
+  --color2: #8c79fc;
+  --color3: #6b52f9;
+  --color4: #4626ff;
+  --color5: #280dbf;
+  --solid-border: 2px solid black;
+  --dashed-border: 2px dashed black;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Georgia', 'Times New Roman' ,serif;
+  margin: 2rem;
+}
+
+#legend {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: .5rem;
+  margin: 1.5rem auto;
+  font-family: Georgia, 'Times New Roman', serif;
+  font-size: 0.9rem;
+  position: relative;
+  flex-wrap: wrap;
+  top: 4.5rem;
+}
+
+#legend-gradient {
+  flex: 1 1 14rem;
+  min-width: 10rem;  
+  height: 14px;
+  border-radius: 6px;
+  background-image: linear-gradient(
+    90deg,
+    var(--color0) 0% 16.6667%,
+    var(--color1) 16.6667% 33.3333%,
+    var(--color2) 33.3333% 50%,
+    var(--color3) 50% 66.6667%,
+    var(--color4) 66.6667% 83.3333%,
+    var(--color5) 83.3333% 100%
+  );
+}
+
+#legend .number {
+  font-weight: bold;
+  min-width: 2rem;
+  text-align: center;
+}
+
+#legend .label {
+  margin-left: .5rem;
+  font-style: italic;
+  color: #333;
+}
+
+
+table {
+  border-collapse: collapse;
+  margin: 0 auto;
+  max-width: 48rem;
+  border-spacing: 0;
+  width: 100%;
+}
+
+caption {
+  margin: 1rem 0 2rem;
+  text-align: center;
+  font-weight: bold;
+  font-size: 1.5rem;
+  position: relative;
+  top: -1.7rem;
+}
+
+thead th {
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  font-weight: bold;
+  text-align: center;
+}
+
+.time {
+  position: relative;
+  bottom: 10px;
+}
+
+.time:not(.first) {
+  border-right: var(--solid-border);
+}
+
+tr td {
+  min-width: 7.5rem;
+  height: 1rem;
+  padding: 0;
+}
+
+.half-hour td {
+  height: 1rem;
+  min-width: auto;
+}
+
+
+.half-hour .half{
+  border-top: var(--dashed-border);
+  border-right: var(--solid-border);
+}
+
+#last td {
+  border-bottom: var(--solid-border);
+}
+
+tr td:not(.half) {
+  border-bottom: none;
+  border-top: var(--solid-border);
+  border-right: var(--solid-border);
+}
+
+
+.available-0 {
+  background-color: var(--color0);
+}
+
+.available-1 {
+  background-color: var(--color1);
+}
+
+.available-2 {
+  background-color: var(--color2);
+}
+
+.available-3 {
+  background-color: var(--color3);
+}
+
+.available-4 {
+  background-color: var(--color4);
+}
+
+.available-5 {
+  background-color: var(--color5);
+}
+

@@ -76,7 +76,7 @@ A job application form  made with basic HTML and CSS. I practiced working with p
 
 ### 8. 🖍️ CSS Coloured Markers
 
-A set of coloured markers that I made with basic HTML and CSS. I practiced working with different ways to set color values as well. 
+A set of coloured markers that I made with basic HTML and CSS. I practiced working with different ways to set color values as well.
 
 - **Live site**: [View Colored Markers](https://m-valdy.github.io/CSS_Recipe-Page/coloured_markers/index.html)
 - **Folder**: `coloured_markers`
@@ -86,7 +86,7 @@ A set of coloured markers that I made with basic HTML and CSS. I practiced worki
 
 ### 9. 👔 Registration Form
 
-A registration form that I made with basic HTML and CSS. I practiced the skills that I learned with the previous excercise while learning some new styles that I could add for more flourish. 
+A registration form that I made with basic HTML and CSS. I practiced the skills that I learned with the previous excercise while learning some new styles that I could add for more flourish.
 
 - **Live site**: [View Registration Form](https://m-valdy.github.io/CSS_Recipe-Page/registration_form/index.html)
 - **Folder**: `coloured_markers`
@@ -96,7 +96,7 @@ A registration form that I made with basic HTML and CSS. I practiced the skills 
 
 ### 10. ☎️ Contact Form
 
-A contact form that I made with basic HTML and CSS. I learned how to 
+A contact form that I made with basic HTML and CSS. I practiced the skills I already built on such as gradients, colours, pseudoclasses like hover, and more.
 
 - **Live site**: [View Contact Form](https://m-valdy.github.io/CSS_Recipe-Page/contact_form/index.html)
 - **Folder**: `contact_form`
@@ -156,7 +156,7 @@ A nutritional label that I made with basic HTML and CSS. I practiced typography 
 
 ### 16. 📰 Newspaper Article
 
-A newspaper that I made with basic HTML and CSS. I practiced using properties such as font-family, font-weight, font-size and more. Similar to the Confidential Letter I had a little bit of fun with the article by making it fantasy. 
+A newspaper that I made with basic HTML and CSS. I practiced using properties such as font-family, font-weight, font-size and more. Similar to the Confidential Letter I had a little bit of fun with the article by making it fantasy.
 
 - **Live site**: [View Newspaper Article](https://m-valdy.github.io/CSS_Recipe-Page/newspaper_article/index.html)
 - **Folder**: `newspaper_article`
@@ -196,7 +196,7 @@ A cat painting that I made with basic HTML and CSS. I practiced working with abs
 
 ### 20. 🏠 House Painting
 
-A house painting that I made with basic HTML and CSS. I practiced working with the same things as the previous project, but with an empasis on positioning with properties such as top, bottom, left and more. This was genuinely the most annoying project so far, it might not even work on your device honestly. 
+A house painting that I made with basic HTML and CSS. I practiced working with the same things as the previous project, but with an empasis on positioning with properties such as top, bottom, left and more. This was genuinely the most annoying project so far, it might not even work on your device honestly.
 
 - **Live site**: [View House Painting](https://m-valdy.github.io/CSS_Recipe-Page/house_painting/index.html)
 - **Folder**: `house_painting`

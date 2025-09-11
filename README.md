@@ -156,7 +156,7 @@ A nutritional label that I made with basic HTML and CSS. I practiced typography 
 
 ### 16. 📰 Newspaper Article
 
-A newspaper that I made with basic HTML and CSS. I practiced using properties such as font-family, font-weight, font-size and more. Similar to the Confidential Letter I had a little bit of fun with the article by making it fantasy (also the picture is AI, I used that because I don't know how to draw)
+A newspaper that I made with basic HTML and CSS. I practiced using properties such as font-family, font-weight, font-size and more. Similar to the Confidential Letter I had a little bit of fun with the article by making it fantasy. 
 
 - **Live site**: [View Newspaper Article](https://m-valdy.github.io/CSS_Recipe-Page/newspaper_article/index.html)
 - **Folder**: `newspaper_article`
@@ -261,6 +261,16 @@ An availability table that I made with HTML and CSS. I practiced using CSS Varia
 
 - **Live site**: [View Availability Table](https://m-valdy.github.io/CSS_Recipe-Page/availability_table/index.html)
 - **Folder**: `availability_table`
+- **Tools**: HTML5 and CSS
+
+---
+
+### 27. 🗞️ CSS Grid Magazine
+
+A CSS Grid Magazine that I made with HTML and CSS. I practiced using CSS Grid in order to layout text, images, and favicons more easily in a screen. I really need to practice grid a lot more.
+
+- **Live site**: [View Magazine](https://m-valdy.github.io/CSS_Recipe-Page/css_grid_magazine/index.html)
+- **Folder**: `css_grid_magazine`
 - **Tools**: HTML5 and CSS
 
 ---

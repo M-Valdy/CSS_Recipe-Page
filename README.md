@@ -275,6 +275,16 @@ A CSS Grid Magazine that I made with HTML and CSS. I practiced using CSS Grid in
 
 ---
 
+### 28. 🗞️ Magazine Layout
+
+A CSS Grid Magazine that I made with HTML and CSS. I practiced the same concepts as the last one however, I made sure to practice concepts such as CSS grid rows, grid areas and grid template areas
+
+- **Live site**: [View Magazine](https://m-valdy.github.io/CSS_Recipe-Page/magazine_layout/index.html)
+- **Folder**: `magazine_layout`
+- **Tools**: HTML5 and CSS
+
+---
+
 ## Deployment
 
 These projects are deployed via **GitHub Pages**.  

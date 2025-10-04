@@ -285,6 +285,16 @@ A CSS Grid Magazine that I made with HTML and CSS. I practiced the same concepts
 
 ---
 
+### 29. 🗞️ Magazine Layout
+
+A Product Landing Page that I made with HTML and CSS. This is the final project of this repository and because of it, it is the longest project by far.
+
+- **Live site**: [View Product Landing Page](https://m-valdy.github.io/CSS_Recipe-Page/product_landing_page/index.html)
+- **Folder**: `magazine_layout`
+- **Tools**: HTML5 and CSS
+
+---
+
 ## Deployment
 
 These projects are deployed via **GitHub Pages**.  

@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Product Landing Page</title>
+    <link href="styles.css" rel="stylesheet"/>
+  </head>
+
+<body>
+  <header id="header">
+    <img src="DataCat.svg" id="header-img"/>
+    <nav id="nav-bar">
+      <a href="#features" class="nav-link">Features</a>
+      <a href="#how-it-works" class="nav-link">How it works</a>
+      <a href="#pricing" class="nav-link">Pricing</a>
+    </nav>
+  </header>
+  <main>
+    <form id="form" action="https://www.freecodecamp.org/email-submit" method="POST">
+        <h1>DataCat: The Database that Purrs</h1>
+        <h2>Get started with DataCat today!</h2>
+        <input type="email" id="email" name="email" placeholder="Enter your email" required/>
+        <input type="submit" id="submit" value="Get Started"/>
+    </form>
+    <section id="features">
+        <h2>Features</h2>
+        <div class="feature">
+            <img src="CurlyBracket.svg" class="icon"/>
+            <h3>Innovative Backend</h3>
+            <p>Our blazing Fast Backend built in raw C, making it quicker than any other database out there</p>
+        </div>
+        <div class="feature">
+            <img src="Sorter.svg" class="icon"/>
+            <h3>AI Sorter</h3>
+            <p>Our AI sorter can go through all kinds of unstructured data, allowing our database to sort through messy data without crashing</p>
+        </div>
+        <div class="feature">
+            <img src="Responsive.svg" class="icon"/>
+            <h3>Extremely Responsive Frontend</h3>
+            <p>Access your database from anywhere in the world, on any device, at any time. DataCat will work on literally anything.</p>
+        </div>
+    </section>
+    <section id="how-it-works">
+        <h2>How it works</h2>
+        <p>Want to understand why databases matter? Check out this freeCodeCamp explainer:</p>
+        <iframe id="video" width="560" height="315" src="https://www.youtube.com/embed/pPqazMTzNOM?si=IhqvJsdRIq7rcHbp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </section>
+    <section id="pricing">
+        <h2>Pricing</h2>
+        <p id="tier-info">
+            All tiers include blazing-fast C backend, and an AI sorter for your data. <br>
+            We don’t know why it works, but it does
+        </p>
+        
+        <div class="price-tiers"> 
+            <div class="price-tier">
+                <h3>Free Plan</h3>
+                <h4>$0/month</h4>
+                <img src="PawPrint.svg" class="icon"/>
+                <p>Perfect for trying out DataCat</p>
+                <p>Up to 100,000 rows of data</p>
+                <p>1 user</p>
+                <p>Community support</p>
+                <input type="submit" id="submit" class="select cta" value="Select"/>
+            </div>
+            
+            <div class="price-tier">
+                <h3>Kitten Plan</h3>
+                <h4>$5/month</h4>
+                <img src="kitten.svg" class="icon"/>
+                <p>Perfect for tiny datasets</p>
+                <p>Up to 1 million rows of data</p>
+                <p>5 users</p>
+                <p>Email support</p>
+                <input type="submit" id="submit"  class="select cta" value="Select"/>
+            </div>
+            
+            <div class="price-tier">
+                <h3>Cat Plan</h3>
+                <h4>$15/month</h4>
+                <img src="cat.svg" class="icon"/>
+                <p>Great for small to medium datasets</p>
+                <p>Unlimited rows</p>
+                <p>Unlimited users</p>
+                <p>Priority email support</p>
+                <input type="submit" id="submit" class="select cta" value="Select"/>
+            </div>
+            
+            <div class="price-tier">
+                <h3>Lion Plan</h3>
+                <h4>$25/month</h4>
+                <img src="lion.svg" class="icon"/>
+                <p>Ideal for large datasets and teams</p>
+                <p>SLA + dedicated clusters</p>
+                <p>24/7 phone and email support</p>
+                <p>AI tuning on demand</p>
+                <input type="submit" id="submit" class="select cta" value="Select"/>
+            </div>
+        </div>
+    </section>
+  </main>
+</body>
+
+</html>

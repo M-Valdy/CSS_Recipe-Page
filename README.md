@@ -287,7 +287,7 @@ A CSS Grid Magazine that I made with HTML and CSS. I practiced the same concepts
 
 ---
 
-### 29. 🗞️ Magazine Layout
+### 29. 👩🏽‍💻 Product Landing Page
 
 A Product Landing Page that I made with HTML and CSS. This is the final project of this repository and because of it, it is the longest project by far.
 
